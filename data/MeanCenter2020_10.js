@@ -1,0 +1,1 @@
+var json_MeanCenter2020_10 = {"type":"FeatureCollection","name":"MeanCenter2020_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"OBJECTID":"1","XCoord":276202.14126,"YCoord":2115564.4583000001},"geometry":{"type":"Point","coordinates":[72.872497756565139,19.120883105200502]}}]}
